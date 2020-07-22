@@ -6,8 +6,8 @@ import java.sql.DriverManager;
 public class SingleConnection {
 
     private static String url = "jdbc:postgresql://localhost:5432/pos-java";
-    private static String user = "postgre";
-    private static String password = "admin";
+    private static String user = "admin";
+    private static String password = "adminS3cret";
     private static Connection connection = null;
 
     private static void connectar() {
