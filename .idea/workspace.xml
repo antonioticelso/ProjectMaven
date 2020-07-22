@@ -33,6 +33,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
     <configuration name="SingleConnectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -63,6 +64,7 @@
       <workItem from="1595386536675" duration="37000" />
       <workItem from="1595387105089" duration="19000" />
       <workItem from="1595387264758" duration="1599000" />
+      <workItem from="1595416159684" duration="364000" />
     </task>
     <servers />
   </component>
