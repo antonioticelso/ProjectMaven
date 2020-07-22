@@ -1,13 +1,13 @@
-package conexaoJdbc;
+package conexaojdbc;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
 
 public class SingleConnection {
 
-    private static String url = "jdbc:postgresql://localhost:5432/pos-java";
-    private static String user = "postgre";
-    private static String password = "admin";
+    private static String url = "jdbc:postgresql://localhost:5432/posjava";
+    private static String user = "postgres";
+    private static String password = "lililalalulu";
     private static Connection connection = null;
 
     private static void connectar() {
@@ -16,7 +16,7 @@ public class SingleConnection {
                 Class.forName("org.postgresql.Driver");
                 connection = DriverManager.getConnection(url, user, password);
                 connection.setAutoCommit(false);
-                System.out.println("conectamos");
+                System.out.println("***** conectamos *****");
             }
 
         } catch (Exception e) {

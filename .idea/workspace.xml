@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3dcd652d-ef16-4a14-ad89-e069a3a692c0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pos-jdbc-java/dbDocker/script" beforeDir="false" afterPath="$PROJECT_DIR$/pos-jdbc-java/dbDocker/script" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pos-jdbc-java/pos-jdbc-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/pos-jdbc-java/pos-jdbc-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pos-jdbc-java/src/main/java/conexaoJdbc/SingleConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/pos-jdbc-java/src/main/java/conexaojdbc/SingleConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pos-jdbc-java/src/test/java/SingleConnectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/pos-jdbc-java/src/test/java/SingleConnectionTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1f1XNiq4ePjkcaLSm785wpDI6Tz" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SingleConnectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pos-jdbc-java" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SingleConnectionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SingleConnectionTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3dcd652d-ef16-4a14-ad89-e069a3a692c0" name="Default Changelist" comment="" />
+      <created>1595386534816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595386534816</updated>
+      <workItem from="1595386536675" duration="37000" />
+      <workItem from="1595387105089" duration="19000" />
+      <workItem from="1595387264758" duration="1599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="914" height="330" key="GridCell.Tab.0.bottom" timestamp="1595388363847">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="914" height="330" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1595388363847" />
+    <state width="914" height="330" key="GridCell.Tab.0.center" timestamp="1595388363846">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="914" height="330" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1595388363846" />
+    <state width="914" height="330" key="GridCell.Tab.0.left" timestamp="1595388363846">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="914" height="330" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1595388363846" />
+    <state width="914" height="330" key="GridCell.Tab.0.right" timestamp="1595388363847">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="914" height="330" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1595388363847" />
+    <state width="914" height="330" key="GridCell.Tab.1.bottom" timestamp="1595388363848">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="914" height="330" key="GridCell.Tab.1.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1595388363848" />
+    <state width="914" height="330" key="GridCell.Tab.1.center" timestamp="1595388363847">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="914" height="330" key="GridCell.Tab.1.center/0.30.1920.1050@0.30.1920.1050" timestamp="1595388363847" />
+    <state width="914" height="330" key="GridCell.Tab.1.left" timestamp="1595388363847">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="914" height="330" key="GridCell.Tab.1.left/0.30.1920.1050@0.30.1920.1050" timestamp="1595388363847" />
+    <state width="914" height="330" key="GridCell.Tab.1.right" timestamp="1595388363848">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="914" height="330" key="GridCell.Tab.1.right/0.30.1920.1050@0.30.1920.1050" timestamp="1595388363848" />
+  </component>
+</project>

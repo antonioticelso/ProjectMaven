@@ -1,14 +1,14 @@
 CREATE DATABASE IF NOT EXISTS jdbc;
 USER jdbc;
 
-create table if not exists preoducts (
+create table if not exists products (
 id int(11) AUTO_INCREMENT,
 name varchar (255),
 price decimal (10, 2),
 primary key (id)
 );
 
-insert into preoducts values (0, 'curso especialista', 2000);
-insert into preoducts values (0, 'curso fullstack', 2500);
+insert into products values (0, 'curso especialista', 2000);
+insert into products values (0, 'curso fullstack', 2500);
 
 

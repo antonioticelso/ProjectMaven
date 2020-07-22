@@ -1,5 +1,4 @@
-import com.google.common.annotations.VisibleForTesting;
-import conexaoJdbc.SingleConnection;
+import conexaojdbc.SingleConnection;
 import org.junit.Test;
 
 public class SingleConnectionTest {
